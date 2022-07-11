@@ -12,7 +12,7 @@
 //     console.log(`Es befindet sich ${i} Flasche Bier an der Wand.`)
 //     }
 
-// //Frage 3
+// //Frage 3**************  
 
 // for(let i=0; i<20; i++){
 //     if (i%2 ===0){
