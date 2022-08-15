@@ -101,7 +101,7 @@ let result76 = "";
 for (let i = 0; i < 15; i++) {
     result76 += (i % 5) + " ";
 }
-console.log(result76);
+console.log("kjdhafdhgakjb"+ result76);
 
 // Andere Lösung mit verschachtelten for Schleifen
 let result76a = "";
